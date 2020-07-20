@@ -1,1 +1,1 @@
-# Epam_Task_TDD-JUnit-Test
+# Epam_Task_TDD-JUnit
